@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -54,7 +58,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BulkyWeb.csproj",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
               "RelativeDocumentMoniker": "BulkyWeb\\BulkyWeb.csproj",
@@ -68,11 +72,24 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AQIAAAkAAABgZmZmZmYkwBkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T07:39:39.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml*",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-24T07:43:20.929Z",
@@ -80,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\CategoryController.cs",
@@ -93,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Home\\Index.cshtml",
@@ -106,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewStart.cshtml",
@@ -119,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "20240824070454_AddCategoryTableToDb.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Migrations\\20240824070454_AddCategoryTableToDb.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Migrations\\20240824070454_AddCategoryTableToDb.cs",
@@ -132,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Data\\ApplicationDbContext.cs",
@@ -145,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Program.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
@@ -157,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\appsettings.Development.json",
               "RelativeDocumentMoniker": "BulkyWeb\\appsettings.Development.json",
@@ -170,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Models\\Category.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Models\\Category.cs",
