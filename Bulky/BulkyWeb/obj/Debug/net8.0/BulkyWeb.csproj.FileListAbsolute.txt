@@ -251,3 +251,9 @@ C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug
 C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.dll
+C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.dll
+C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.dll
+C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
+C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
+C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb

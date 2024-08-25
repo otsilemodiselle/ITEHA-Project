@@ -3,24 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.dataaccess\\migrations\\20240824080710_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240824080710_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.dataaccess\\migrations\\20240824070454_addcategorytabletodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240824070454_addcategorytabletodb.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.dataaccess\\migrations\\20240824070454_addcategorytabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240824070454_addcategorytabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.dataaccess\\migrations\\20240824080710_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|solutionrelative:bulky.dataaccess\\migrations\\20240824080710_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E0CAA9-D590-4737-A85F-8C7B09BA3F44}|Bulky.Utility\\Bulky.Utility.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E0CAA9-D590-4737-A85F-8C7B09BA3F44}|Bulky.Utility\\Bulky.Utility.csproj|solutionrelative:bulky.utility\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\bulkyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\bulkyweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +66,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T13:02:32.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Edit.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T12:31:52.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAABkAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T12:26:21.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Create.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAkAAAA",
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-25T11:02:10.814Z",
+              "WhenOpened": "2024-08-25T16:12:16.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Program.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Program.cs",
+              "RelativeToolTip": "BulkyWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:11:58.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:10:38.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240824080710_SeedCategoryTable.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\20240824080710_SeedCategoryTable.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240824080710_SeedCategoryTable.Designer.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\20240824080710_SeedCategoryTable.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240824080710_SeedCategoryTable.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:02:14.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Category.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Category.cs",
+              "RelativeToolTip": "Bulky.Models\\Category.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAADgvw0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:59:06.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240824070454_AddCategoryTableToDb.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\20240824070454_AddCategoryTableToDb.Designer.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240824070454_AddCategoryTableToDb.Designer.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\20240824070454_AddCategoryTableToDb.Designer.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240824070454_AddCategoryTableToDb.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T16:07:27.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "BulkyWeb\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-25T14:17:36.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BulkyWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:03:06.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240824070454_AddCategoryTableToDb.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\20240824070454_AddCategoryTableToDb.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240824070454_AddCategoryTableToDb.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\20240824070454_AddCategoryTableToDb.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240824070454_AddCategoryTableToDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:37:18.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Controllers\\CategoryController.cs",
               "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Controllers\\CategoryController.cs",
               "RelativeToolTip": "BulkyWeb\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAuwGQAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T10:30:04.908Z"
+              "WhenOpened": "2024-08-25T14:02:46.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T13:25:04.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240824080710_SeedCategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\20240824080710_SeedCategoryTable.cs",
+              "RelativeDocumentMoniker": "Bulky.DataAccess\\Migrations\\20240824080710_SeedCategoryTable.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Migrations\\20240824080710_SeedCategoryTable.cs",
+              "RelativeToolTip": "Bulky.DataAccess\\Migrations\\20240824080710_SeedCategoryTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:37:25.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\SD.cs",
+              "RelativeDocumentMoniker": "Bulky.Utility\\SD.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\SD.cs",
+              "RelativeToolTip": "Bulky.Utility\\SD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T15:29:04.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BulkyWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+              "RelativeDocumentMoniker": "BulkyWeb\\BulkyWeb.csproj",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+              "RelativeToolTip": "BulkyWeb\\BulkyWeb.csproj",
+              "ViewState": "AQIAAAEAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-25T13:59:49.179Z",
+              "EditorCaption": ""
             }
           ]
         }
