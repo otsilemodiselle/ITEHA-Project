@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Category.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Category.cs",
+              "RelativeToolTip": "Bulky.Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:13:42.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Product.cs",
+              "RelativeDocumentMoniker": "Bulky.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Product.cs",
+              "RelativeToolTip": "Bulky.Models\\Product.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwB0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T20:12:50.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
