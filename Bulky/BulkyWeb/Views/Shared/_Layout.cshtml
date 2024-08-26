@@ -23,12 +23,20 @@
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
                             <a class="nav-link text-light" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
+                        </li>                   
                         <li class="nav-item">
-                            <a class="nav-link text-light" asp-controller="Category" asp-action="Index">Category</a>
+                            <a class="nav-link text-light" asp-area="Customer"  asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-light" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-white" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Content Management
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li class="nav-item">
+                                    <a class="nav-link text-primary" asp-area="Admin" asp-controller="Category" asp-action="Index">Category</a>
+                                </li>                                
+                                <li><hr class="dropdown-divider"></li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
