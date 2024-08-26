@@ -14,12 +14,12 @@ namespace Bulky.Models
         public int Id { get; set; }
 
         [Required]
-        public string ProductName { get; set; }
+        public string Name { get; set; }
         
         public string Description { get; set; }
 
         [Required]
-        public string ProductCode { get; set; }
+        public string Barcode { get; set; }
 
         [Required]
         public string Supplier { get; set; }
