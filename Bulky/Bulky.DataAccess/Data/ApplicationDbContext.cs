@@ -34,7 +34,8 @@ namespace Bulky.DataAccess.Data
                     Description = "Paiting of African woman.",
                     Barcode = "827349",
                     ListPrice = 1999,
-                    CategoryId = 3
+                    CategoryId = 3,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -45,7 +46,8 @@ namespace Bulky.DataAccess.Data
                     Description = "Sculpture of African woman.",
                     Barcode = "193674",
                     ListPrice = 849,
-                    CategoryId = 3
+                    CategoryId = 3,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -56,7 +58,8 @@ namespace Bulky.DataAccess.Data
                     Description = "A trio of African style mask statues.",
                     Barcode = "582913",
                     ListPrice = 2500,
-                    CategoryId = 3
+                    CategoryId = 3,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -67,7 +70,8 @@ namespace Bulky.DataAccess.Data
                     Description = "Crescent shaped necklace.",
                     Barcode = "746025",
                     ListPrice = 475,
-                    CategoryId = 1
+                    CategoryId = 1,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -78,7 +82,8 @@ namespace Bulky.DataAccess.Data
                     Description = "Ornate beaded bracelet.",
                     Barcode = "238964",
                     ListPrice = 399,
-                    CategoryId = 1
+                    CategoryId = 1,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -89,7 +94,8 @@ namespace Bulky.DataAccess.Data
                     Description = "Beaded necklace with intricate charm.",
                     Barcode = "901758",
                     ListPrice = 819,
-                    CategoryId = 1
+                    CategoryId = 1,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -100,7 +106,8 @@ namespace Bulky.DataAccess.Data
                     Description = "Wooden stool with African pot atop.",
                     Barcode = "364217",
                     ListPrice = 1000,
-                    CategoryId = 4
+                    CategoryId = 4,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -111,7 +118,8 @@ namespace Bulky.DataAccess.Data
                     Description = "Cabinet with bespoke pottery on display.",
                     Barcode = "512480",
                     ListPrice = 4899,
-                    CategoryId = 4
+                    CategoryId = 4,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -122,7 +130,8 @@ namespace Bulky.DataAccess.Data
                     Description = "Sleek couch with African style fabric.",
                     Barcode = "679341",
                     ListPrice = 3500,
-                    CategoryId = 4
+                    CategoryId = 4,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -133,7 +142,8 @@ namespace Bulky.DataAccess.Data
                     Description = "African style blazer and pants suit.",
                     Barcode = "453829",
                     ListPrice = 2250,
-                    CategoryId = 2
+                    CategoryId = 2,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -144,7 +154,8 @@ namespace Bulky.DataAccess.Data
                     Description = "African style gown for girls.",
                     Barcode = "720496",
                     ListPrice = 1600,
-                    CategoryId = 2
+                    CategoryId = 2,
+                    ImageUrl = ""
                 },
 
                 new Product
@@ -155,7 +166,8 @@ namespace Bulky.DataAccess.Data
                     Description = "Bespoke cascading Africa dress.",
                     Barcode = "185237",
                     ListPrice = 2900,
-                    CategoryId = 2
+                    CategoryId = 2,
+                    ImageUrl = ""
                 }
             );
         }
