@@ -13,6 +13,22 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\072e42b2-739e-4129-91e9-9b7c1ca3dc0f.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\072e42b2-739e-4129-91e9-9b7c1ca3dc0f.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\2c070c21-e2aa-4ded-855d-719503ecf5a9.png",
+      "PackagePath": "staticwebassets\\images\\product\\2c070c21-e2aa-4ded-855d-719503ecf5a9.png"
+    },
+    {
+      "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9bb6079c-0dfe-496e-932f-3c4919cbaa54.jfif",
+      "PackagePath": "staticwebassets\\images\\product\\9bb6079c-0dfe-496e-932f-3c4919cbaa54.jfif"
+    },
+    {
+      "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\aa1c0343-4c86-4220-a46a-28b2c4969a74.png",
+      "PackagePath": "staticwebassets\\images\\product\\aa1c0343-4c86-4220-a46a-28b2c4969a74.png"
+    },
+    {
       "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
