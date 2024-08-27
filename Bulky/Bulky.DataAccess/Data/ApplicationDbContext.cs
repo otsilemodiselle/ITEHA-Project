@@ -10,7 +10,7 @@ namespace Bulky.DataAccess.Data
 
         }
 
-        public DbSet<Category> Product { get; set; }
+        public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -33,7 +33,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Arckerman Artworks",
                     Description = "Paiting of African woman.",
                     Barcode = "827349",
-                    ListPrice = 1999
+                    ListPrice = 1999,
+                    CategoryId = 3
                 },
 
                 new Product
@@ -43,7 +44,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Chokwe Carvings",
                     Description = "Sculpture of African woman.",
                     Barcode = "193674",
-                    ListPrice = 849
+                    ListPrice = 849,
+                    CategoryId = 3
                 },
 
                 new Product
@@ -53,7 +55,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Ettiene Etchings",
                     Description = "A trio of African style mask statues.",
                     Barcode = "582913",
-                    ListPrice = 2500
+                    ListPrice = 2500,
+                    CategoryId = 3
                 },
 
                 new Product
@@ -63,7 +66,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Nandi Necklaces",
                     Description = "Crescent shaped necklace.",
                     Barcode = "746025",
-                    ListPrice = 475
+                    ListPrice = 475,
+                    CategoryId = 1
                 },
 
                 new Product
@@ -73,7 +77,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Barend Beadwork",
                     Description = "Ornate beaded bracelet.",
                     Barcode = "238964",
-                    ListPrice = 399
+                    ListPrice = 399,
+                    CategoryId = 1
                 },
 
                 new Product
@@ -83,7 +88,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Japhthah Jewellers",
                     Description = "Beaded necklace with intricate charm.",
                     Barcode = "901758",
-                    ListPrice = 819
+                    ListPrice = 819,
+                    CategoryId = 1
                 },
 
                 new Product
@@ -93,7 +99,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Francis Furnishers",
                     Description = "Wooden stool with African pot atop.",
                     Barcode = "364217",
-                    ListPrice = 1000
+                    ListPrice = 1000,
+                    CategoryId = 4
                 },
 
                 new Product
@@ -103,7 +110,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Author Artisans",
                     Description = "Cabinet with bespoke pottery on display.",
                     Barcode = "512480",
-                    ListPrice = 4899
+                    ListPrice = 4899,
+                    CategoryId = 4
                 },
 
                 new Product
@@ -113,7 +121,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Makhubela Makers",
                     Description = "Sleek couch with African style fabric.",
                     Barcode = "679341",
-                    ListPrice = 3500
+                    ListPrice = 3500,
+                    CategoryId = 4
                 },
 
                 new Product
@@ -123,7 +132,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Thuso Taylors",
                     Description = "African style blazer and pants suit.",
                     Barcode = "453829",
-                    ListPrice = 2250
+                    ListPrice = 2250,
+                    CategoryId = 2
                 },
 
                 new Product
@@ -133,7 +143,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Emma Embroiders",
                     Description = "African style gown for girls.",
                     Barcode = "720496",
-                    ListPrice = 1600
+                    ListPrice = 1600,
+                    CategoryId = 2
                 },
 
                 new Product
@@ -143,7 +154,8 @@ namespace Bulky.DataAccess.Data
                     Supplier = "Felicia Fashioners",
                     Description = "Bespoke cascading Africa dress.",
                     Barcode = "185237",
-                    ListPrice = 2900
+                    ListPrice = 2900,
+                    CategoryId = 2
                 }
             );
         }
