@@ -13,7 +13,7 @@
             <input asp-for="Product.Id" hidden/>
             <div class="border p-3">
 
-                @* <div asp-validation-summary="All"></div> *@
+                <div asp-validation-summary="All"></div>
 
                 <div class="form-floating py-2 col-12">
                     <input asp-for="Product.Name" class="form-control border-0 shadow" />
@@ -53,7 +53,7 @@
                 </div>
 
                 <div class="form-floating py-2 col-12">
-                    <input type="file" class="form-control border-0 shadow" />
+                    <input type="file" name="file" class="form-control border-0 shadow" />
                     <label asp-for="Product.ImageUrl" class="ms-2"></label>
                 </div>
 
@@ -86,8 +86,8 @@
     <script>
         tinymce.init({
             selector: 'textarea',
-            plugins: 'anchor autolink charmap codesample emoticons image link lists media searchreplace table visualblocks wordcount checklist mediaembed casechange export formatpainter pageembed linkchecker a11ychecker tinymcespellchecker permanentpen powerpaste advtable advcode editimage advtemplate ai mentions tinycomments tableofcontents footnotes mergetags autocorrect typography inlinecss markdown',
-            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | link image media table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap | removeformat',
+            plugins: 'anchor autolink charmap codesample emoticons lists table visualblocks wordcount checklist mediaembed casechange export formatpainter pageembed linkchecker a11ychecker tinymcespellchecker permanentpen powerpaste advtable advcode editimage advtemplate ai mentions tinycomments tableofcontents footnotes mergetags autocorrect typography inlinecss markdown',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | table mergetags | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent ',
             tinycomments_mode: 'embedded',
             tinycomments_author: 'Author name',
             mergetags_list: [

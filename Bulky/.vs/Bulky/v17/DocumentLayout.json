@@ -3,22 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,8 +15,24 @@
       "RelativeMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -90,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
@@ -107,72 +107,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AQIAADwAAAAAAAAAAADwv0EAAABCAAAA",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T17:28:01.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Upsert.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
-              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml*",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml*",
-              "ViewState": "AQIAAE8AAAAAAAAAAADwv2IAAAANAAAA",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Upsert.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACQAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-27T09:31:14.449Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "ProductVM.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\ViewModels\\ProductVM.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ProductVM.cs",
               "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\ViewModels\\ProductVM.cs",
               "RelativeToolTip": "Bulky.Models\\ViewModels\\ProductVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAIAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T15:32:25.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeToolTip": "BulkyWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAADwvyYAAAATAAAA",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwDkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T14:06:15.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Product.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\Product.cs",
               "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Product.cs",
               "RelativeToolTip": "Bulky.Models\\Product.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAwwCUAAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwCcAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-27T09:33:36.484Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Category.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\Category.cs",
@@ -185,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Admin\\Views\\Product\\Index.cshtml",
