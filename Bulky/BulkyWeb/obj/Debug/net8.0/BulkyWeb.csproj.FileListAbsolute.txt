@@ -257,3 +257,4 @@ C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\obj\Debug
 C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.pdb
 C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.genruntimeconfig.cache
 C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\obj\Debug\net8.0\ref\BulkyWeb.dll
+C:\Users\Otsile\Documents\Udemy Course .NetCore Bhrugen\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyWeb.MvcApplicationPartsAssemblyInfo.cs
