@@ -2147,7 +2147,8 @@
       },
       "Bulky.Models/1.0.0": {
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.8"
+          "Microsoft.EntityFrameworkCore": "8.0.8",
+          "Microsoft.Extensions.Identity.Stores": "8.0.8"
         },
         "runtime": {
           "Bulky.Models.dll": {}

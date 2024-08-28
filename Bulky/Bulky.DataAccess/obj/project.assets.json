@@ -2831,7 +2831,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.8"
+          "Microsoft.EntityFrameworkCore": "8.0.8",
+          "Microsoft.Extensions.Identity.Stores": "8.0.8"
         },
         "compile": {
           "bin/placeholder/Bulky.Models.dll": {}
