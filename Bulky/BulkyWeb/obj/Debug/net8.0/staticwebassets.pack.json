@@ -81,6 +81,14 @@
       "PackagePath": "staticwebassets\\images\\product\\fae71570-fb05-4ade-975a-aaf37e0c5064.webp"
     },
     {
+      "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\js\\newFile.js",
+      "PackagePath": "staticwebassets\\js\\newFile.js"
+    },
+    {
+      "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
       "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
