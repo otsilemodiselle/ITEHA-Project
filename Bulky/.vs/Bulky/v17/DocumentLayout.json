@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\orderheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8150D38-CF15-4FBA-9D33-CCC68B26A169}|Bulky.Models\\Bulky.Models.csproj|solutionrelative:bulky.models\\viewmodels\\shoppingcartvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulkyweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C0C6F3-733C-4756-BF01-8B8D846C9CCC}|BulkyWeb\\BulkyWeb.csproj|solutionrelative:bulkyweb\\areas\\customer\\views\\cart\\summary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{11B5026A-FE6A-49A4-A85A-AE85939C2FA7}|Bulky.DataAccess\\Bulky.DataAccess.csproj|c:\\users\\otsile\\documents\\udemy course .netcore bhrugen\\bulky\\bulky.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +82,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "BulkyWeb\\wwwroot\\css\\site.css",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "BulkyWeb\\Views\\Shared\\_Layout.cshtml.css",
@@ -108,20 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "CartController.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
               "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
               "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAiwEQAAAAMAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAiwEAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-30T18:28:39.031Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Index.cshtml",
@@ -134,20 +134,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "Summary.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
-              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
-              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAnwF0AAAAnAAAA",
+              "ToolTip": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml*",
+              "RelativeToolTip": "BulkyWeb\\Areas\\Customer\\Views\\Cart\\Summary.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-30T18:27:38.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ShoppingCartVM.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\ViewModels\\ShoppingCartVM.cs",
@@ -160,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OrderHeader.cs",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\OrderHeader.cs",
               "RelativeDocumentMoniker": "Bulky.Models\\OrderHeader.cs",
@@ -173,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "BulkyWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
