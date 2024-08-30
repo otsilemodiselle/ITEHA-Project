@@ -30,10 +30,10 @@
                             <span class="badge">@Model.Product.Category.Name</span>
                         </div>
                         <div class="row ps-2">
-                            <h6 class="text-dark text-opacity-50 ">Product Code : @Model.Product.Barcode</h6>
+                            <h6 class="text-dark text-opacity-75 ">Product Code : @Model.Product.Barcode</h6>
                         </div>
                         <div class="row ps-2">
-                            <h6 class="text-dark text-opacity-50  pb-2">
+                            <h6 class="text-dark text-opacity-75  pb-2">
                                 Price:
                                 <span class="">
                                     @Model.Product.ListPrice.ToString("c")
@@ -41,7 +41,7 @@
                             </h6>
                         </div>
                         <div class="row pl-2 my-3">
-                            <p class="text-secondary lh-sm">@Html.Raw(@Model.Product.Description)</p>
+                            <p class="text-secondary lh-sm text-body">@Html.Raw(@Model.Product.Description)</p>
                         </div>
                         <div class="row pl-2 mb-3">
                             <div class="col-md-4">
