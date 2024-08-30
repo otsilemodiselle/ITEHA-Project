@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h/xz1MyFxZ+p0ote8fWghfcxCra1RldVJ9X2HKf25P8=",
+  "Hash": "i3vhdz2UC/KkFbkT39kKNAkAhlYpdeJus3YYSq8MGQs=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -1459,6 +1459,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\9bb6079c-0dfe-496e-932f-3c4919cbaa54.jfif"
+    },
+    {
+      "Identity": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\a60ea39c-e9fa-4e92-84a3-6e20387e8a62.webp",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "images/product/a60ea39c-e9fa-4e92-84a3-6e20387e8a62.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\a60ea39c-e9fa-4e92-84a3-6e20387e8a62.webp"
     },
     {
       "Identity": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\aa1c0343-4c86-4220-a46a-28b2c4969a74.png",
