@@ -22,6 +22,7 @@ namespace Bulky.Models
         [Range(1, 100, ErrorMessage = "Please enter avalue between 1 and 1000")]
         public int Count { get; set; }
 
+
         public string ApplicationUserId { get; set; }
 
         [ForeignKey("ApplicationUserId)")]
