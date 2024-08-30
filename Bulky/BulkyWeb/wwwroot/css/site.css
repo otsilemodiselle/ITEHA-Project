@@ -12,6 +12,14 @@ html {
     box-shadow: 0 -2px;
 }
 
+.hover-zoom {
+    transition: transform 0.3s ease;
+}
+
+.hover-zoom:hover {
+    transform: scale(2); 
+}
+
 @media (min-width: 768px) {
   html {
     font-size: 16px;
