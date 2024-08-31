@@ -1,0 +1,51 @@
+Eduvos ITEHA3-T33 Assessment by Otsile Modiselle
+
+This project is a construction of an ecommerce website for merchant SA Online Mart. The client needs to display a range of locally produced artisanl goods for sale with the typical functionalities of such a site. These needs were addressed here through a ASP.NET Core website that pulls and stores data into a database via Entity FrameWork.
+
+Features
+
+Front-End
+Homepage: Showcases a list of products.
+Product Detail Page: Users can view more information about each product.
+Shopping Cart: Allows users to add, remove, and update product quantities.
+Checkout Page: Users can complete their purchases.
+Admin Panel: Admins can manage products (add, edit, delete).
+
+Back-End
+.NET Core Web API: Handles product data, user authentication, and order processing.
+CRUD Operations: For managing products in the admin panel.
+Endpoints: For browsing products, managing the shopping cart, and completing purchases.
+Security & Performance: Best practices followed.
+Installation
+
+Installation
+https://github.com/otsilemodiselle/ITEHA-Project.git
+Download zip file
+Access Bulky Folder
+Open SAOnlineMart.sln in Visual Studio
+Ctrl F5
+
+MIT License
+
+Copyright (c) 2024 Otsile Modiselle
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+Contact:
+Otsile Modiselle - otsilemodiselle@outlook.com

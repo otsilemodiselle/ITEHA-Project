@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAOnlineMartWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c6b3ff3b48793c193e0ca2bf1987e88df1b09de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc388af6117d8763a773016b1ea094f954c84c08")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAOnlineMartWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAOnlineMartWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
