@@ -3073,25 +3073,25 @@
           }
         }
       },
-      "Bulky.DataAccess/1.0.0": {
+      "SAOnlineMart.DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Bulky.Models": "1.0.0",
-          "Bulky.Utility": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.8",
           "Microsoft.EntityFrameworkCore": "8.0.8",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.4"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.4",
+          "SAOnlineMart.Models": "1.0.0",
+          "SAOnlineMart.Utility": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/Bulky.DataAccess.dll": {}
+          "bin/placeholder/SAOnlineMart.DataAccess.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.DataAccess.dll": {}
+          "bin/placeholder/SAOnlineMart.DataAccess.dll": {}
         }
       },
-      "Bulky.Models/1.0.0": {
+      "SAOnlineMart.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
@@ -3099,26 +3099,26 @@
           "Microsoft.Extensions.Identity.Stores": "8.0.8"
         },
         "compile": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/SAOnlineMart.Models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.Models.dll": {}
+          "bin/placeholder/SAOnlineMart.Models.dll": {}
         },
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
       },
-      "Bulky.Utility/1.0.0": {
+      "SAOnlineMart.Utility/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.AspNetCore.Identity.UI": "8.0.8"
         },
         "compile": {
-          "bin/placeholder/Bulky.Utility.dll": {}
+          "bin/placeholder/SAOnlineMart.Utility.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Bulky.Utility.dll": {}
+          "bin/placeholder/SAOnlineMart.Utility.dll": {}
         }
       }
     }
@@ -8616,34 +8616,34 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Bulky.DataAccess/1.0.0": {
+    "SAOnlineMart.DataAccess/1.0.0": {
       "type": "project",
-      "path": "../Bulky.DataAccess/Bulky.DataAccess.csproj",
-      "msbuildProject": "../Bulky.DataAccess/Bulky.DataAccess.csproj"
+      "path": "../Bulky.DataAccess/SAOnlineMart.DataAccess.csproj",
+      "msbuildProject": "../Bulky.DataAccess/SAOnlineMart.DataAccess.csproj"
     },
-    "Bulky.Models/1.0.0": {
+    "SAOnlineMart.Models/1.0.0": {
       "type": "project",
-      "path": "../Bulky.Models/Bulky.Models.csproj",
-      "msbuildProject": "../Bulky.Models/Bulky.Models.csproj"
+      "path": "../Bulky.Models/SAOnlineMart.Models.csproj",
+      "msbuildProject": "../Bulky.Models/SAOnlineMart.Models.csproj"
     },
-    "Bulky.Utility/1.0.0": {
+    "SAOnlineMart.Utility/1.0.0": {
       "type": "project",
-      "path": "../Bulky.Utility/Bulky.Utility.csproj",
-      "msbuildProject": "../Bulky.Utility/Bulky.Utility.csproj"
+      "path": "../Bulky.Utility/SAOnlineMart.Utility.csproj",
+      "msbuildProject": "../Bulky.Utility/SAOnlineMart.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Bulky.DataAccess >= 1.0.0",
-      "Bulky.Models >= 1.0.0",
-      "Bulky.Utility >= 1.0.0",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.8",
       "Microsoft.AspNetCore.Identity.UI >= 8.0.8",
       "Microsoft.EntityFrameworkCore >= 8.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Sqlite >= 8.0.8",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.8",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.4"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.4",
+      "SAOnlineMart.DataAccess >= 1.0.0",
+      "SAOnlineMart.Models >= 1.0.0",
+      "SAOnlineMart.Utility >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8653,9 +8653,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
-      "projectName": "BulkyWeb",
-      "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\SAOnlineMartWeb.csproj",
+      "projectName": "SAOnlineMartWeb",
+      "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\SAOnlineMartWeb.csproj",
       "packagesPath": "C:\\Users\\Otsile\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\obj\\",
       "projectStyle": "PackageReference",
@@ -8679,14 +8679,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj": {
-              "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj"
+            "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\SAOnlineMart.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\SAOnlineMart.DataAccess.csproj"
             },
-            "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+            "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\SAOnlineMart.Models.csproj": {
+              "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\SAOnlineMart.Models.csproj"
             },
-            "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-              "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+            "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\SAOnlineMart.Utility.csproj": {
+              "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\SAOnlineMart.Utility.csproj"
             }
           }
         }

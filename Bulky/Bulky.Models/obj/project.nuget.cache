@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QCnkYXl0FcI=",
+  "dgSpecHash": "ipyJSe/L8sM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+  "projectFilePath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\SAOnlineMart.Models.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Otsile\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Otsile\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.8\\microsoft.aspnetcore.cryptography.internal.8.0.8.nupkg.sha512",

@@ -1,4 +1,4 @@
-namespace Bulky.Models
+namespace SAOnlineMart.Models
 {
     public class ErrorViewModel
     {

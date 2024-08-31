@@ -2375,9 +2375,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
-      "projectName": "Bulky.Models",
-      "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\Bulky.Models.csproj",
+      "projectUniqueName": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\SAOnlineMart.Models.csproj",
+      "projectName": "SAOnlineMart.Models",
+      "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\SAOnlineMart.Models.csproj",
       "packagesPath": "C:\\Users\\Otsile\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Models\\obj\\",
       "projectStyle": "PackageReference",

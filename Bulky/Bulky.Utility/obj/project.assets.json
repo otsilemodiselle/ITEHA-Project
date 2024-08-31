@@ -802,9 +802,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
-      "projectName": "Bulky.Utility",
-      "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectUniqueName": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\SAOnlineMart.Utility.csproj",
+      "projectName": "SAOnlineMart.Utility",
+      "projectPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\SAOnlineMart.Utility.csproj",
       "packagesPath": "C:\\Users\\Otsile\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",

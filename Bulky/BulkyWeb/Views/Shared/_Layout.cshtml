@@ -8,12 +8,12 @@
     <title>@ViewData["Title"]SA Online Mart </title>
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/BulkyWeb.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/SAOnlineMartWeb.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.css"/>
     <link rel="stylesheet" href="https://cdn.datatables.net/1.11.5/css/jquery.dataTables.min.css"/>
 </head>
-<body>
+<body class="d-flex flex-column min-vh-100">
     <header>
         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-primary border-bottom box-shadow mb-3">
             <div class="container-fluid">
@@ -59,13 +59,13 @@
         </nav>
     </header>
     <div class="container">
-        <main role="main" class="pb-3">
+        <main class="flex-grow-1" role="main" class="pb-3">
             <partial name="_Notification" />
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-light bg-primary">
+    <footer class="border-top footer text-light bg-primary mt-auto">
         <div class="container text-center">
             Made with <i class="bi bi-suit-heart-fill"></i> by Otsile Modiselle<a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bulky.Utility
+namespace SAOnlineMart.Utility
 {
     //Static Details
     public static class SD

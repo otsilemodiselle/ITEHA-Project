@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w0QsGLwhvPo=",
+  "dgSpecHash": "Zy+Oxjq29d0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\Bulky.DataAccess\\SAOnlineMart.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Otsile\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Otsile\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

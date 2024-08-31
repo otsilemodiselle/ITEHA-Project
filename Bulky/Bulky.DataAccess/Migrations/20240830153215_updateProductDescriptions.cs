@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace Bulky.DataAccess.Migrations
+namespace SAOnlineMart.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class updateProductDescriptions : Migration

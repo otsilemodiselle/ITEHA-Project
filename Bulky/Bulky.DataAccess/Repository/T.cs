@@ -1,4 +1,4 @@
-﻿namespace Bulky.DataAccess.Repository
+﻿namespace SAOnlineMart.DataAccess.Repository
 {
     public class T
     {

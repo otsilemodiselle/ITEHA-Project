@@ -1,8 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
-      "PackagePath": "staticwebassets\\BulkyWeb.bundle.scp.css"
+      "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SAOnlineMartWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SAOnlineMartWeb.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\Otsile\\Documents\\Udemy Course .NetCore Bhrugen\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
@@ -325,20 +325,20 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BulkyWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SAOnlineMartWeb.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BulkyWeb.props",
-      "PackagePath": "build\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SAOnlineMartWeb.props",
+      "PackagePath": "build\\SAOnlineMartWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BulkyWeb.props",
-      "PackagePath": "buildMultiTargeting\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SAOnlineMartWeb.props",
+      "PackagePath": "buildMultiTargeting\\SAOnlineMartWeb.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BulkyWeb.props",
-      "PackagePath": "buildTransitive\\BulkyWeb.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SAOnlineMartWeb.props",
+      "PackagePath": "buildTransitive\\SAOnlineMartWeb.props"
     }
   ],
   "ElementsToRemove": []

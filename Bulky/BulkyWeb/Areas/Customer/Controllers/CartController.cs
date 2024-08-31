@@ -1,12 +1,12 @@
-﻿using Bulky.DataAccess.Repository.IRepository;
-using Bulky.Models;
-using Bulky.Models.ViewModels;
-using Bulky.Utility;
+﻿using SAOnlineMart.DataAccess.Repository.IRepository;
+using SAOnlineMart.Models;
+using SAOnlineMart.Models.ViewModels;
+using SAOnlineMart.Utility;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
-namespace BulkyWeb.Areas.Customer.Controllers
+namespace SAOnlineMartWeb.Areas.Customer.Controllers
 {
     [Area("customer")]
     [Authorize]

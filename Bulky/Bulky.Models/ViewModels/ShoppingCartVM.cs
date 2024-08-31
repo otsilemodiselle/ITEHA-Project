@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bulky.Models.ViewModels
+namespace SAOnlineMart.Models.ViewModels
 {
     public class ShoppingCartVM
     {

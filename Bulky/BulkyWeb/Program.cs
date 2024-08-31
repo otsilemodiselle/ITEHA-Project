@@ -1,11 +1,11 @@
-using Bulky.DataAccess.Data;
-using Bulky.DataAccess.Repository;
-using Bulky.DataAccess.Repository.IRepository;
+using SAOnlineMart.DataAccess.Data;
+using SAOnlineMart.DataAccess.Repository;
+using SAOnlineMart.DataAccess.Repository.IRepository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Identity.UI.Services;
-using Bulky.Utility;
+using SAOnlineMart.Utility;
 
 var builder = WebApplication.CreateBuilder(args);
 

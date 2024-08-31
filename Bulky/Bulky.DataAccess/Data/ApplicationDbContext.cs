@@ -1,4 +1,4 @@
-﻿using Bulky.Models;
+﻿using SAOnlineMart.Models;
 using Humanizer;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Identity;
@@ -11,7 +11,7 @@ using System.Drawing.Drawing2D;
 using System.Formats.Tar;
 using System.IO.Pipelines;
 
-namespace Bulky.DataAccess.Data
+namespace SAOnlineMart.DataAccess.Data
 {
     public class ApplicationDbContext : IdentityDbContext<IdentityUser>
     {

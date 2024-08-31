@@ -1,11 +1,11 @@
-using Bulky.DataAccess.Repository.IRepository;
-using Bulky.Models;
+using SAOnlineMart.DataAccess.Repository.IRepository;
+using SAOnlineMart.Models;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using System.Security.Claims;
 
-namespace BulkyWeb.Areas.Customer.Controllers
+namespace SAOnlineMartWeb.Areas.Customer.Controllers
 {
     [Area("Customer")]
     public class HomeController : Controller
